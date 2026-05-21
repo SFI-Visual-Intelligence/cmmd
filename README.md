@@ -1,3 +1,5 @@
+Paper: Discriminative multimodal learning via conditional priors in generative models ([Link](https://api.nva.unit.no/publication/0198cc8fc670-cc9c9de9-c01a-4d17-a57f-8b40dfccdcfa))
+
 # Discriminative Multimodal Learning via Conditional Priors in Generative Models 
 Code for the framework in **Discriminative Multimodal Learning via Conditional Priors in Generative Models** ([paper](https://arxiv.org/abs/2110.04616)).
 
